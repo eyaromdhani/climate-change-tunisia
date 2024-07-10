@@ -1,0 +1,21 @@
+.model{
+  font-weight:bold;
+  font-family: arial;
+  text-align:center;
+  font-size:50px;
+  margin-top:0;
+  margin-bottom:15px;
+}
+.second_line{
+  text-align:center;
+  font-family: 'Montserrat';
+  font-size:25px;
+  margin-top:10px;
+}
+.underlined{
+  text-decoration: underline;
+}
+.underlined:hover{
+  cursor:pointer;
+}
+
